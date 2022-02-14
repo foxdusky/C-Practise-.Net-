@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageId>WFAoo16_27</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Мельников Даниил Алексеевич</Authors>
+    <Company>Группа: ИС50-3-20</Company>
+    <Product>Пр.р. №16. Вар. 27</Product>
+    <Description>Практическая работа №16. "Изучение интегрированной
+среды разработчика MS Visual Studio на примере
+простого оконного приложения Windows Forms".</Description>
+    <Copyright>Мельников Даниил Алексеевич</Copyright>
+    <AssemblyVersion>1.0.0.27</AssemblyVersion>
+  </PropertyGroup>
+
+</Project>
